@@ -1,0 +1,5 @@
+1. Copy and paste the Appsettings Code to your app Settings
+2. Copy and paste the startup.cs into your code
+3. copy and paste the AuthenticationController into your code to generate the token
+4. Add Authorize to the controller you want to pass the token before calling the controller.
+5 you can check the attached image to see how it been call in post man

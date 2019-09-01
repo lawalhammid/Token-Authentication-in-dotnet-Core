@@ -1,0 +1,5 @@
+  "Jwt": {
+    "Site": "https://localhost:4009",
+    "SigningKey": "AppSigningKey AppSigningKey AppSigningKey AppSigningKey AppSigningKey AppSigningKey",
+    "ExpiryInMinutes": "60"
+  },
